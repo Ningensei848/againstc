@@ -1,0 +1,8 @@
+/*
+    Styling and Layout | Docusaurus
+    cf. https://docusaurus.io/docs/styling-layout#css-modules
+*/
+
+.SocialButtons button {
+  margin-right: 0.2rem;
+}

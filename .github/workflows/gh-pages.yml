@@ -1,0 +1,39 @@
+name: Deploy App
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: 'Build source codes to Deploy Docusaurus App'
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Setup Node
+        uses: actions/setup-node@v2
+        # Caching packages dependencies
+        # cf. https://github.com/actions/setup-node/blob/main/docs/advanced-usage.md#caching-packages-dependencies
+        with:
+          node-version: 16.x
+          cache: yarn
+
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build Docusaurus
+        run: yarn build
+        env:
+          BASE_PATH: ${{ secrets.BASE_PATH }}
+          GOOGLE_TAG_MANAGER_ID: ${{ secrets.GOOGLE_TAG_MANAGER_ID }}
+          GOOGLE_ADSENSE_ID: ${{ secrets.GOOGLE_ADSENSE_ID }}
+
+      - name: Deploy app to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: build
