@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkarchives_for_open_letters=self.webpackChunkarchives_for_open_letters||[]).push([[3237],{9754:function(e,t,r){r.r(t);var n=r(7294),s=r(6775);t.default=function(){return n.createElement(s.l_,{to:"/topic/open-letters"})}}}]);
