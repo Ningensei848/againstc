@@ -20,7 +20,7 @@ keywords: ["オープンレター", "キャンセル・カルチャー", "agains
 image: 'https://open-letters.vercel.app/img/open-letters-banner.png'
 ---
 
-[![オープンレター 女性差別的な文化を脱するために](/img/open-letters-banner.png)](https://sites.google.com:443/view/againstm/home)
+[![オープンレター 女性差別的な文化を脱するために](/img/open-letters-banner.svg)](https://sites.google.com:443/view/againstm/home)
 
 [オープンレター 女性差別的な文化を脱するために](https://sites.google.com/view/againstm/home) というサイトでは "研究・教育・言論・メディアにかかわるすべての人へ" と銘打って，これの趣旨に賛同する人々を ２０２１年４月３０日まで募集していた．賛同者は Google Form 上で **メール等を利用した本人確認なく** 名前＋所属を入力することでもって「署名」を行なうことができた．Twitter を始めとした SNS で多くの著名人も賛同の声を上げたこともあって，「署名」は**合計 1300 筆**を超える数が集まった．ただし，"呼び掛け人側が意図した趣旨とは異なる根拠で賛同をしているものが少数あり、こうした署名については掲載を見送り" にしたという事象も見受けられた．
 

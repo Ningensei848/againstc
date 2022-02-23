@@ -1,23 +1,5 @@
-[![オープンレター　女性差別的な文化を脱するために](/static/img/open-letters-banner.svg)](https://ningensei848.github.io/open-letters)
+[![キャンセル・カルチャーに徹底的に対抗し，「キャンセル」されない方法を模索する](https://custom-og-image-generator.vercel.app/api/%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%81%AB%E5%BE%B9%E5%BA%95%E7%9A%84%E3%81%AB%E5%AF%BE%E6%8A%97%E3%81%97%EF%BC%8C%E3%80%8C%E3%82%AD%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%AB%E3%80%8D%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84%E6%96%B9%E6%B3%95%E3%82%92%E6%A8%A1%E7%B4%A2%E3%81%99%E3%82%8B.png?theme=dark&copyright=%23againstc+%2F+Kubokawa+Takara&logo=https%3A%2F%2Fopen-letters.vercel.app%2Fimg%2Flogo.png&avater=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F763543133724352513%2Fr6RlBYDo_400x400.jpg&author=Kiai&aka=%40Ningensei848&site=%23againstc&tags=againstc&tags=cancel-culture)](https://ningensei848.github.io/againstc)
 
-# 署名者検索 for オープンレター
+# #againstc
 
-※本件に関する詳細は[こちら](https://ningensei848.github.io/open-letters/againstc)を参照のこと．
-
-https://ningensei848.github.io/open-letters/againstc
-
-## 概要
-
-**もし署名者一覧を検索できる機能があれば，名を騙られたかもしれない人の一助になれるかもしれない**と考えた．約１３００人の名前と所属を対象として，入力文字列をもとに正規表現を用いてフィルタリングを実施し，検索キーワードが含まれた人だけをリストアップする仕組みである．また，単に名前を列挙するだけでなく，「名前＋肩書き」をクエリとした Google 検索へのリンクを表示させた．こうすることで具体的にどのような人が署名していたのか，ワンクリックでお手軽に調査することができるだろう．
-
-このツールが**名を騙られたかもしれない人**，あるいは**オープンレター署名者についてもっと知りたい人**の手助けとなることを願って已まない．
-
-## Note
-
-<div className="msg">
-
-このツールが参照しているオープンレターの署名者一覧の増減については，現在のところこのツールの製作者による手動更新でのみ行われている（おおもとの方で変更があってもそれに追従できていない場合がある）．
-
-もしなにか不都合あれば，[Issue を建てて報告](https://github.com/Ningensei848/open-letters/issues/new)してもらうことを期待している．
-
-</div>
+[ningensei848.github.io/againstc](https://ningensei848.github.io/againstc)
