@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchives_for_open_letters=self.webpackChunkarchives_for_open_letters||[]).push([[9463],{3166:function(e){e.exports=JSON.parse('{"allTagsPath":"/againstc/blog/tags","slug":"/againstc/blog/tags/widget","name":"widget","count":1,"permalink":"/againstc/blog/tags/widget"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkarchives_for_open_letters=self.webpackChunkarchives_for_open_letters||[]).push([[5338],{2013:function(s){s.exports=JSON.parse('{"allTagsPath":"/againstc/blog/tags","slug":"/againstc/blog/tags/docusaurus","name":"Docusaurus","count":1,"permalink":"/againstc/blog/tags/docusaurus"}')}}]);
