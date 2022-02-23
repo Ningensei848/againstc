@@ -55,7 +55,7 @@ h6 {
 }
 
 /* logo */
-img[src^='/img/logo'] {
+img[src^='/againstc/img/logo'] {
   border-radius: 0.4rem;
 }
 

@@ -126,9 +126,12 @@ const config = {
         logo: {
           alt: siteName,
           src: 'img/logo.svg',
-          srcDark: 'img/logo_dark.svg',
-          href: `${siteUrl}/${repositoryName}`,
-          target: '_self'
+          srcDark: 'img/logo_dark.svg'
+          // Logo URL is set to base URL of your site by default (siteConfig.baseUrl).
+          // Although you can specify your own URL for the logo,
+          // if it is an external link, it will open in a new tab.
+          // href: `${siteUrl}/${repositoryName}`,
+          // target: '_self'
         },
         items: [
           { to: '/', label: 'Home', position: 'left' },
@@ -179,7 +182,10 @@ const config = {
           alt: 'Against Cancel Culture',
           src: 'img/logo.svg',
           srcDark: 'img/logo_dark.svg',
-          href: `${siteUrl}/${repositoryName}`,
+          // Logo URL is set to base URL of your site by default (siteConfig.baseUrl).
+          // Although you can specify your own URL for the logo,
+          // if it is an external link, it will open in a new tab.
+          // href: `${siteUrl}/${repositoryName}`,
           width: 50,
           height: 50
         },
