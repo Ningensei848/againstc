@@ -8,12 +8,11 @@ declare global {
   }
 }
 
-const isFulfilled = <T,>(input: PromiseSettledResult<T>): input is PromiseFulfilledResult<T> =>
+const isFulfilled = <T>(input: PromiseSettledResult<T>): input is PromiseFulfilledResult<T> =>
   input.status === 'fulfilled'
 
 // 非同期関数を定義
 const processTweetsAsync = async (blockquotes: HTMLCollectionOf<Element>) => {
-
   const loadEmbedTweet = window.twttr.widgets.load
 
   // Promise<void> を要素とする配列を並列して解決させる
@@ -24,11 +23,11 @@ const processTweetsAsync = async (blockquotes: HTMLCollectionOf<Element>) => {
         new Promise<void>((resolve, reject) => {
           // console.log(quote)  // dom が帰る
           try {
-            if (!quote.hasAttribute('class')) reject("quote doesn\'t have class")
+            if (!quote.hasAttribute('class')) reject("quote doesn't have class")
 
             const className = quote.getAttribute('class').split(/\s/)
 
-            if (!(className.includes('twitter-tweet'))) {
+            if (!className.includes('twitter-tweet')) {
               reject()
             } else {
               // <blockquote> かつ少なくとも 'class' 属性は持っており，
@@ -57,7 +56,7 @@ export const useTweetEmbed = () => {
 
   // Debounced function
   useEffect(() => {
-    const blockquote = document.getElementsByTagName('blockquote');
+    const blockquote = document.getElementsByTagName('blockquote')
     const fn = async () => await processTweetsAsync(blockquote)
     const timer = setTimeout(() => {
       if (!isBrowser) return
