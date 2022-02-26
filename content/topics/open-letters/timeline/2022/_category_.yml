@@ -1,5 +1,5 @@
 position: 2 # float position is supported
-collapsible: true # make the category collapsible
+collapsible: false # make the category collapsible
 collapsed: true # keep the category open by default
 label: '2022 年'
 link:
