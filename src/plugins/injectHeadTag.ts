@@ -4,6 +4,7 @@ import type { LoadContext } from '@docusaurus/types'
 import type { PluginOptions } from '@docusaurus/plugin-content-pages'
 
 type CustomOptions = PluginOptions & {
+  AD_ID: string
   GTM_ID: string
 }
 
@@ -49,6 +50,16 @@ const gtm_noscript = (id: string) => `
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 `
+const adsense = (id: string) => {
+  return {
+    tagName: 'script',
+    attributes: {
+      async: true,
+      src: `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${id}`,
+      crossorigin: 'anonymous'
+    }
+  }
+}
 // options は `docusaurus.config.js` にてオプション引数として指定する
 const plugin = async (context: LoadContext, options: CustomOptions) => {
   return {
@@ -57,6 +68,7 @@ const plugin = async (context: LoadContext, options: CustomOptions) => {
       return {
         headTags: [
           `<link rel='preconnect' href='//fonts.gstatic.com' crossOrigin='anonymous' />`,
+          adsense(options.AD_ID),
           gtm(options.GTM_ID),
           twttr
         ],
