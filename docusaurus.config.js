@@ -195,9 +195,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme
       },
-      googleAdsense: {
-        dataAdClient: process.env.GOOGLE_ADSENSE_ID || 'ca-pub-xxxxxxxxxx'
-      },
       // image: 'img/open-letters-banner.png', // og:image & twitter:image | cf. https://docusaurus.io/docs/api/themes/configuration#meta-image
       metadata: [
         // image は themeCondfig.image で指定する
@@ -209,13 +206,12 @@ const config = {
     }),
 
   plugins: [
-    'docusaurus-plugin-google-adsense',
-    [
-      require.resolve('@cmfcmf/docusaurus-search-local'),
-      {
-        language: ['ja', 'en']
-      }
-    ],
+    // [
+    //   require.resolve('@cmfcmf/docusaurus-search-local'),
+    //   {
+    //     language: ['ja', 'en']
+    //   }
+    // ],
     [
       '@docusaurus/plugin-pwa',
       {
@@ -288,7 +284,10 @@ const config = {
     // local plugins ----------------------------------------------------------
     [
       `${__dirname}/src/plugins/injectHeadTag`,
-      { GTM_ID: process.env.NEXT_PUBLIC_GOOGLE_TAG_MANAGER_ID || 'GTM-XXXXXX' }
+      {
+        GTM_ID: process.env.GOOGLE_TAG_MANAGER_ID || 'GTM-XXXXXX',
+        AD_ID: process.env.GOOGLE_ADSENSE_ID || 'ca-pub-xxxxxxxxxx'
+      }
     ],
     [`${__dirname}/src/plugins/signatory`, { routeName: 'topic/open-letters/search' }]
   ]
