@@ -1,51 +1,165 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1200" height="630" viewBox="0 0 1200 630" xml:space="preserve">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1200" height="630" viewBox="0 0 1200 630" xml:space="preserve">
     <desc>Created with Fabric.js 4.6.0</desc>
     <defs></defs>
-    <g transform="matrix(1 0 0 1 615 315)" id="EtEeqiOfCO1Fz8WJT5c-b"  >
-        <path style="stroke: rgb(54,167,78); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(227,57,127); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  transform=" translate(-315, -315)" d="M 0 0 L 630 0 L 630 630 L 0 630 z" stroke-linecap="round" />
+    <g transform="matrix(1 0 0 1 615 315)" id="jjWUfLM59ViD0OfcHpNtY">
+        <path
+            style="
+                stroke: rgb(54, 167, 78);
+                stroke-width: 0;
+                stroke-dasharray: none;
+                stroke-linecap: butt;
+                stroke-dashoffset: 0;
+                stroke-linejoin: miter;
+                stroke-miterlimit: 4;
+                fill: rgb(227, 57, 127);
+                fill-rule: nonzero;
+                opacity: 1;
+                visibility: hidden;
+            "
+            vector-effect="non-scaling-stroke"
+            transform=" translate(-315, -315)"
+            d="M 0 0 L 630 0 L 630 630 L 0 630 z"
+            stroke-linecap="round"
+        />
     </g>
-    <g transform="matrix(1 0 0 1 615 315)" id="p2RXq9funwfci-rt1dBZz"  >
-        <path style="stroke: rgb(5,164,219); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(153,100,82); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  transform=" translate(-285, -285)" d="M 0 0 L 570 0 L 570 570 L 0 570 z" stroke-linecap="round" />
+    <g transform="matrix(1 0 0 1 615 315)" id="88qQePBbvCZNjGqPRoKE6">
+        <path
+            style="
+                stroke: rgb(5, 164, 219);
+                stroke-width: 0;
+                stroke-dasharray: none;
+                stroke-linecap: butt;
+                stroke-dashoffset: 0;
+                stroke-linejoin: miter;
+                stroke-miterlimit: 4;
+                fill: rgb(153, 100, 82);
+                fill-rule: nonzero;
+                opacity: 1;
+                visibility: hidden;
+            "
+            vector-effect="non-scaling-stroke"
+            transform=" translate(-285, -285)"
+            d="M 0 0 L 570 0 L 570 570 L 0 570 z"
+            stroke-linecap="round"
+        />
     </g>
-    <g transform="matrix(1 0 0 1 600 315)" id="Ji_iYj6-5R_x6i4yIJd-U"  >
-        <path style="stroke: rgb(100,191,214); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230,0,51); fill-opacity: 0.89; fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-600, -315)" d="M 0 0 L 1200 0 L 1200 630 L 0 630 z" stroke-linecap="round" />
+    <g transform="matrix(1 0 0 1 600 315)" id="ZlbpJnFZtNSYdpfrgNx4F">
+        <path
+            style="
+                stroke: rgb(100, 191, 214);
+                stroke-width: 0;
+                stroke-dasharray: none;
+                stroke-linecap: butt;
+                stroke-dashoffset: 0;
+                stroke-linejoin: miter;
+                stroke-miterlimit: 4;
+                fill: rgb(230, 0, 51);
+                fill-opacity: 0.89;
+                fill-rule: nonzero;
+                opacity: 1;
+            "
+            vector-effect="non-scaling-stroke"
+            transform=" translate(-600, -315)"
+            d="M 0 0 L 1200 0 L 1200 630 L 0 630 z"
+            stroke-linecap="round"
+        />
     </g>
-    <g transform="matrix(1 0 0 1 624 312.45)" id="HRpv__JPRuO8ZGJ9PaMf6"  >
-        <g style="" vector-effect="non-scaling-stroke"   >
-            <g transform="matrix(1.43 0 0 1.43 -90.23 -52.18)" style="" id="gBvjRvpKSy0xvPxWhSmtg"  >
-                <text xml:space="preserve" font-family="Noto Sans JP" font-size="285" font-style="normal" font-weight="700" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" >
-                    <tspan x="-142.5" y="89.53" >㊙</tspan>
-                </text>
-            </g>
-            <g transform="matrix(0 -1 1 0 200.53 -68.95)" style="" id="9ovnX2l_l6LdVQfaL15bH"  >
-                <text xml:space="preserve" font-family="Noto Sans JP" font-size="61" font-style="normal" font-weight="700" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" >
-                    <tspan x="-213.5" y="19.16" >オープンレター</tspan>
-                </text>
-            </g>
-            <g transform="matrix(0.96 0 0 1 -55.5 187.55)" style="" id="Hj_Gi1NZ_Taj5GU14Ixlo"  >
-                <text xml:space="preserve" font-family="Noto Sans JP" font-size="53" font-style="normal" font-weight="700" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" >
-                    <tspan x="-247.3" y="16.65" >~~女性~~差別的な</tspan>
-                </text>
-            </g>
-            <g transform="matrix(1 0 0 1 -155.25 252.5)" style="" id="_D4C-Fi5J7xN-nh1FvkE6"  >
-                <text xml:space="preserve" font-family="Noto Sans JP" font-size="53" font-style="normal" font-weight="700" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" >
-                    <tspan x="-53.75" y="16.65" >文化</tspan>
-                </text>
-            </g>
-            <g transform="matrix(1 0 0 1 -65.5 251.37)" style="" id="4qmfCWFC0iQCdCVT3L8hi"  >
-                <text xml:space="preserve" font-family="Noto Sans JP" font-size="51" font-style="normal" font-weight="700" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" >
-                    <tspan x="-26.5" y="16.02" >を</tspan>
-                </text>
-            </g>
-            <g transform="matrix(1 0 0 1 135 252.5)" style="" id="stkLD-8JMJ3XV-FC90w4E"  >
-                <text xml:space="preserve" font-family="Noto Sans JP" font-size="53" font-style="normal" font-weight="700" line-height="1" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" >
-                    <tspan x="-159" y="16.65" >脱するために</tspan>
-                </text>
-            </g>
-        </g>
+    <g transform="matrix(0 -1 1 0 827.04 234.19)" style="" id="eDo-fmyaOnZY50_kycVP-">
+        <text
+            xml:space="preserve"
+            font-family="Noto Sans JP"
+            font-size="61"
+            font-style="normal"
+            font-weight="700"
+            line-height="1"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240, 255, 255); fill-rule: nonzero; opacity: 1; white-space: pre;"
+        >
+            <tspan x="-222.81" y="19.16">オープンレター</tspan>
+        </text>
+    </g>
+    <g transform="matrix(0.96 0 0 1 576.26 502.18)" style="" id="n72hJwv_LXXNbiwNvPAxi">
+        <text
+            xml:space="preserve"
+            font-family="Noto Sans JP"
+            font-size="53"
+            font-style="normal"
+            font-weight="700"
+            line-height="1"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240, 255, 255); fill-rule: nonzero; opacity: 1; white-space: pre;"
+        >
+            <tspan x="-255.38" y="16.65">~~女性~~差別的な</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1 0 0 1 451.08 564.95)" style="" id="wh8DaV8MQ_0yfsualELPR">
+        <text
+            xml:space="preserve"
+            font-family="Noto Sans JP"
+            font-size="53"
+            font-style="normal"
+            font-weight="700"
+            line-height="1"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240, 255, 255); fill-rule: nonzero; opacity: 1; white-space: pre;"
+        >
+            <tspan x="-61.09" y="16.65">文化</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1 0 0 1 533.28 566.82)" style="" id="s5CUotC3PCCgwBAFTfr1u">
+        <text
+            xml:space="preserve"
+            font-family="Noto Sans JP"
+            font-size="51"
+            font-style="normal"
+            font-weight="700"
+            line-height="1"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240, 255, 255); fill-rule: nonzero; opacity: 1; white-space: pre;"
+        >
+            <tspan x="-33.28" y="16.02">を</tspan>
+        </text>
+    </g>
+    <g transform="matrix(1 0 0 1 719.09 565.95)" style="" id="qu6VlsttxYb8P-wvu8PZy">
+        <text
+            xml:space="preserve"
+            font-family="Noto Sans JP"
+            font-size="53"
+            font-style="normal"
+            font-weight="700"
+            line-height="1"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240, 255, 255); fill-rule: nonzero; opacity: 1; white-space: pre;"
+        >
+            <tspan x="-167.09" y="16.65">脱するために</tspan>
+        </text>
+    </g>
+    <g transform="matrix(0.67 0 0 0.68 539.37 245)" id="AtflkI3DdYFSX4g41T3iz">
+        <path
+            style="stroke: rgb(238, 146, 167); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248, 248, 255); fill-rule: nonzero; opacity: 1;"
+            vector-effect="non-scaling-stroke"
+            transform=" translate(-300, -300)"
+            d="M 300 0 C 465.6 0 600 134.4 600 300 C 600 465.6 465.6 600 300 600 C 134.4 600 0 465.6 0 300 C 0 134.4 134.4 0 300 0 z"
+            stroke-linecap="round"
+        />
+    </g>
+    <g transform="matrix(0.67 0 0 0.68 539.37 245)" id="_wwdPjyxq0pnRw9CSegoH">
+        <path
+            style="stroke: rgb(114, 252, 33); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(230, 0, 51); fill-rule: nonzero; opacity: 0.89;"
+            vector-effect="non-scaling-stroke"
+            transform=" translate(-280, -280)"
+            d="M 280 0 C 434.56 0 560 125.44 560 280 C 560 434.56 434.56 560 280 560 C 125.44 560 0 434.56 0 280 C 0 125.44 125.44 0 280 0 z"
+            stroke-linecap="round"
+        />
+    </g>
+    <g transform="matrix(0.67 -0.02 0.02 0.68 592.24 265.42)" style="" id="NWMOvjQzLgeMKvN1xX6zD">
+        <text
+            xml:space="preserve"
+            font-family="Noto Sans JP"
+            font-size="444"
+            font-style="normal"
+            font-weight="700"
+            line-height="1"
+            style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(248, 248, 255); fill-rule: nonzero; opacity: 1; white-space: pre;"
+        >
+            <tspan x="-289.75" y="139.48">秘</tspan>
+        </text>
     </g>
 </svg>
